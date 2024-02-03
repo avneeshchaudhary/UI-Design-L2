@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avneeshchaudhary/UI-Design-L2/static/css/main.86f01a85.css",
-    "main.js": "/avneeshchaudhary/UI-Design-L2/static/js/main.4d2c1f15.js",
-    "static/js/787.42a6f26f.chunk.js": "/avneeshchaudhary/UI-Design-L2/static/js/787.42a6f26f.chunk.js",
-    "index.html": "/avneeshchaudhary/UI-Design-L2/index.html",
-    "main.86f01a85.css.map": "/avneeshchaudhary/UI-Design-L2/static/css/main.86f01a85.css.map",
-    "main.4d2c1f15.js.map": "/avneeshchaudhary/UI-Design-L2/static/js/main.4d2c1f15.js.map",
-    "787.42a6f26f.chunk.js.map": "/avneeshchaudhary/UI-Design-L2/static/js/787.42a6f26f.chunk.js.map"
+    "main.css": "/UI-Design-L2/static/css/main.86f01a85.css",
+    "main.js": "/UI-Design-L2/static/js/main.b930fa7e.js",
+    "static/js/787.42a6f26f.chunk.js": "/UI-Design-L2/static/js/787.42a6f26f.chunk.js",
+    "index.html": "/UI-Design-L2/index.html",
+    "main.86f01a85.css.map": "/UI-Design-L2/static/css/main.86f01a85.css.map",
+    "main.b930fa7e.js.map": "/UI-Design-L2/static/js/main.b930fa7e.js.map",
+    "787.42a6f26f.chunk.js.map": "/UI-Design-L2/static/js/787.42a6f26f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86f01a85.css",
-    "static/js/main.4d2c1f15.js"
+    "static/js/main.b930fa7e.js"
   ]
 }
